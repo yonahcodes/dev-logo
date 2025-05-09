@@ -1,6 +1,6 @@
 # PNG Logo Overlay Automation
 
-I created this simple project to customize banners for my university courses repositories. It provides scripts to automate the process of overlaying PNG logo images onto a background PNG image. It includes a `Bash` script to efficiently convert SVG logo files to PNG format using `Inkscape` and a `Python` script that leverages the `Pillow` library to perform the PNG overlay, with adjustable logo positioning and sizing.
+I created this project to customize banners for my university course repositories. It provides scripts to overlay `PNG` logo images onto a background PNG image, using a `Bash` script for `SVG` to PNG conversion (via `Inkscape`) and a `Python` script (using `Pillow`) for adjustable logo overlay.
 
 ## Key Features
 
