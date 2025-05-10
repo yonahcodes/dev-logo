@@ -2,6 +2,8 @@
 
 I created this project to customize banners for my university course repositories. It provides scripts to overlay `PNG` logo images onto a background PNG image, using a `Bash` script for `SVG` to PNG conversion (via `Inkscape`) and a `Python` script (using `Pillow`) for adjustable logo overlay.
 
+![Udem C++](img/overlay/udem_cpp.png)
+
 ## Key Features
 
 * **SVG to PNG Conversion:** Automates the conversion of multiple SVG logo files to PNG format using `Inkscape` via a `Bash` script.
