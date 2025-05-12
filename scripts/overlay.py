@@ -3,7 +3,7 @@ from pathlib import Path
 
 # Configuration
 background_path = "img/png/udem.png"
-logo_path = "img/png/java.png"
+logo_path = "img/png/php.png"
 logo_name = Path(logo_path).stem
 # logo_name = os.path.splitext(os.path.basename(logo_path))[0] To get filename without pathlib
 output_path = f"img/overlay/udem_{logo_name}.png"
