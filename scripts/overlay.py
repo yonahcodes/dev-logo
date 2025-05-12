@@ -2,11 +2,11 @@ from PIL import Image
 from pathlib import Path
 
 # Configuration
-background_path = "../img/png/udem.png"
-logo_path = "../img/png/cpp.png"
+background_path = "img/png/udem.png"
+logo_path = "img/png/java.png"
 logo_name = Path(logo_path).stem
 # logo_name = os.path.splitext(os.path.basename(logo_path))[0] To get filename without pathlib
-output_path = f"../img/overlay/udem_{logo_name}.png"
+output_path = f"img/overlay/udem_{logo_name}.png"
 
 # ---------- Adjust these values as needed for different logos -----------
 target_logo_height_pct = 0.40  # Percentage of background height for logo
